@@ -95,8 +95,11 @@ body {
   color: var(--color-ocean);
 }
 
-.contacts-item {
+.contacts {
   font-style: normal;
+}
+
+.contacts-item {
   color: var(--color-slate);
 }
 
