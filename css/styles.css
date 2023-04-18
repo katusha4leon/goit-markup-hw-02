@@ -175,6 +175,10 @@ body {
   text-align: center;
 }
 
+.main-text {
+  color: var(--color-slate);
+}
+
 .footer {
   height: 312px;
   background-color: var(--color-navy-blue);
@@ -190,6 +194,14 @@ body {
   |============================
 */
 .filter-btn {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
+  cursor: pointer;
+
   background: var(--color-cloud);
   border: 1px solid var(--color-cornflower);
   border-radius: 4px;
