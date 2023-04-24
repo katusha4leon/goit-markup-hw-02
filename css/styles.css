@@ -127,7 +127,7 @@ body {
 
 .hero {
   background-color: var(--color-navy-blue);
-  height: 600px;
+  /* height: 600px; */
 }
 
 .hero-title {
@@ -166,12 +166,6 @@ body {
 }
 
 .team-card {
-  width: 264px;
-  height: 380px;
-  background: #ffffff;
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-  border-radius: 0px 0px 4px 4px;
 }
 
 .card-text {
@@ -219,9 +213,9 @@ body {
 }
 
 .portfolio-card {
-  box-sizing: border-box;
+  /* box-sizing: border-box;
 
   width: 360px;
   height: 420px;
-  border: 1px solid var(--color-cornflower);
+  border: 1px solid var(--color-cornflower); */
 }
